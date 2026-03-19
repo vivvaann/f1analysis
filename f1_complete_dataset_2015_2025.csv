@@ -1,0 +1,231 @@
+driver,team,year,races_raced,points,wins,podiums
+Alexander Albon,Red Bull,2019,9,76.0,0,0
+Alexander Albon,Red Bull,2020,17,105.0,0,2
+Alexander Albon,Toro Rosso,2019,12,16.0,0,0
+Alexander Albon,Williams,2022,21,4.0,0,0
+Alexander Albon,Williams,2023,22,25.0,0,0
+Alexander Albon,Williams,2024,24,12.0,0,0
+Alexander Rossi,Manor Marussia,2015,5,0.0,0,0
+Antonio Giovinazzi,Alfa Romeo,2019,21,14.0,0,0
+Antonio Giovinazzi,Alfa Romeo,2020,17,4.0,0,0
+Antonio Giovinazzi,Alfa Romeo,2021,22,3.0,0,0
+Antonio Giovinazzi,Sauber,2017,2,0.0,0,0
+Brendon Hartley,Toro Rosso,2017,4,0.0,0,0
+Brendon Hartley,Toro Rosso,2018,21,4.0,0,0
+Carlos Sainz,Ferrari,2021,22,163.5,0,4
+Carlos Sainz,Ferrari,2022,22,228.0,1,9
+Carlos Sainz,Ferrari,2023,22,178.0,1,3
+Carlos Sainz,Ferrari,2024,23,262.0,2,9
+Carlos Sainz,McLaren,2019,21,96.0,0,1
+Carlos Sainz,McLaren,2020,17,105.0,0,1
+Carlos Sainz,Renault,2017,4,6.0,0,0
+Carlos Sainz,Renault,2018,21,53.0,0,0
+Carlos Sainz,Toro Rosso,2015,19,18.0,0,0
+Carlos Sainz,Toro Rosso,2016,21,46.0,0,0
+Carlos Sainz,Toro Rosso,2017,16,48.0,0,0
+Charles Leclerc,Ferrari,2019,21,264.0,2,10
+Charles Leclerc,Ferrari,2020,17,98.0,0,2
+Charles Leclerc,Ferrari,2021,22,159.0,0,1
+Charles Leclerc,Ferrari,2022,22,291.0,3,11
+Charles Leclerc,Ferrari,2023,22,185.0,0,6
+Charles Leclerc,Ferrari,2024,24,327.0,3,13
+Charles Leclerc,Sauber,2018,21,39.0,0,0
+Daniel Ricciardo,AlphaTauri,2023,7,6.0,0,0
+Daniel Ricciardo,McLaren,2021,22,114.0,1,1
+Daniel Ricciardo,McLaren,2022,22,34.0,0,0
+Daniel Ricciardo,RB F1 Team,2024,18,7.0,0,0
+Daniel Ricciardo,Red Bull,2015,19,92.0,0,2
+Daniel Ricciardo,Red Bull,2016,21,256.0,1,8
+Daniel Ricciardo,Red Bull,2017,20,200.0,1,9
+Daniel Ricciardo,Red Bull,2018,21,170.0,2,2
+Daniel Ricciardo,Renault,2019,21,54.0,0,0
+Daniel Ricciardo,Renault,2020,17,119.0,0,2
+Daniil Kvyat,AlphaTauri,2020,17,32.0,0,0
+Daniil Kvyat,Red Bull,2015,19,95.0,0,1
+Daniil Kvyat,Red Bull,2016,4,21.0,0,1
+Daniil Kvyat,Toro Rosso,2016,17,4.0,0,0
+Daniil Kvyat,Toro Rosso,2017,15,5.0,0,0
+Daniil Kvyat,Toro Rosso,2019,21,37.0,0,1
+Esteban Gutiérrez,Haas F1 Team,2016,21,0.0,0,0
+Esteban Ocon,Alpine F1 Team,2021,22,74.0,1,1
+Esteban Ocon,Alpine F1 Team,2022,22,89.0,0,0
+Esteban Ocon,Alpine F1 Team,2023,22,56.0,0,1
+Esteban Ocon,Alpine F1 Team,2024,23,23.0,0,1
+Esteban Ocon,Force India,2017,20,87.0,0,0
+Esteban Ocon,Force India,2018,21,49.0,0,0
+Esteban Ocon,Manor Marussia,2016,9,0.0,0,0
+Esteban Ocon,Renault,2020,17,62.0,0,1
+Felipe Massa,Williams,2015,19,121.0,0,2
+Felipe Massa,Williams,2016,21,53.0,0,0
+Felipe Massa,Williams,2017,19,43.0,0,0
+Felipe Nasr,Sauber,2015,19,27.0,0,0
+Felipe Nasr,Sauber,2016,21,2.0,0,0
+Fernando Alonso,Alpine F1 Team,2021,22,81.0,0,1
+Fernando Alonso,Alpine F1 Team,2022,22,81.0,0,0
+Fernando Alonso,Aston Martin,2023,22,198.0,0,8
+Fernando Alonso,Aston Martin,2024,24,70.0,0,0
+Fernando Alonso,McLaren,2015,18,11.0,0,0
+Fernando Alonso,McLaren,2016,20,54.0,0,0
+Fernando Alonso,McLaren,2017,19,17.0,0,0
+Fernando Alonso,McLaren,2018,21,50.0,0,0
+Franco Colapinto,Williams,2024,9,5.0,0,0
+George Russell,Mercedes,2020,1,3.0,0,0
+George Russell,Mercedes,2022,22,262.0,1,8
+George Russell,Mercedes,2023,22,157.0,0,2
+George Russell,Mercedes,2024,24,226.0,2,4
+George Russell,Williams,2019,21,0.0,0,0
+George Russell,Williams,2020,16,0.0,0,0
+George Russell,Williams,2021,22,16.0,0,1
+Guanyu Zhou,Alfa Romeo,2022,22,6.0,0,0
+Guanyu Zhou,Alfa Romeo,2023,22,6.0,0,0
+Guanyu Zhou,Sauber,2024,24,4.0,0,0
+Jack Aitken,Williams,2020,1,0.0,0,0
+Jack Doohan,Alpine F1 Team,2024,1,0.0,0,0
+Jenson Button,McLaren,2015,19,16.0,0,0
+Jenson Button,McLaren,2016,21,21.0,0,0
+Jenson Button,McLaren,2017,1,0.0,0,0
+Jolyon Palmer,Renault,2016,21,1.0,0,0
+Jolyon Palmer,Renault,2017,16,8.0,0,0
+Kevin Magnussen,Haas F1 Team,2017,20,19.0,0,0
+Kevin Magnussen,Haas F1 Team,2018,21,56.0,0,0
+Kevin Magnussen,Haas F1 Team,2019,21,20.0,0,0
+Kevin Magnussen,Haas F1 Team,2020,17,1.0,0,0
+Kevin Magnussen,Haas F1 Team,2022,22,21.0,0,0
+Kevin Magnussen,Haas F1 Team,2023,22,3.0,0,0
+Kevin Magnussen,Haas F1 Team,2024,22,14.0,0,0
+Kevin Magnussen,McLaren,2015,1,0.0,0,0
+Kevin Magnussen,Renault,2016,21,7.0,0,0
+Kimi Räikkönen,Alfa Romeo,2019,21,43.0,0,0
+Kimi Räikkönen,Alfa Romeo,2020,17,4.0,0,0
+Kimi Räikkönen,Alfa Romeo,2021,20,10.0,0,0
+Kimi Räikkönen,Ferrari,2015,19,150.0,0,3
+Kimi Räikkönen,Ferrari,2016,21,186.0,0,4
+Kimi Räikkönen,Ferrari,2017,20,205.0,0,7
+Kimi Räikkönen,Ferrari,2018,21,251.0,1,12
+Lance Stroll,Aston Martin,2021,22,34.0,0,0
+Lance Stroll,Aston Martin,2022,22,18.0,0,0
+Lance Stroll,Aston Martin,2023,22,68.0,0,0
+Lance Stroll,Aston Martin,2024,24,24.0,0,0
+Lance Stroll,Racing Point,2019,21,21.0,0,0
+Lance Stroll,Racing Point,2020,16,75.0,0,2
+Lance Stroll,Williams,2017,20,40.0,0,1
+Lance Stroll,Williams,2018,21,6.0,0,0
+Lando Norris,McLaren,2019,21,49.0,0,0
+Lando Norris,McLaren,2020,17,97.0,0,1
+Lando Norris,McLaren,2021,22,160.0,0,4
+Lando Norris,McLaren,2022,22,116.0,0,1
+Lando Norris,McLaren,2023,22,184.0,0,7
+Lando Norris,McLaren,2024,24,344.0,4,13
+Lewis Hamilton,Mercedes,2015,19,381.0,10,17
+Lewis Hamilton,Mercedes,2016,21,380.0,10,17
+Lewis Hamilton,Mercedes,2017,20,363.0,9,13
+Lewis Hamilton,Mercedes,2018,21,408.0,11,17
+Lewis Hamilton,Mercedes,2019,21,413.0,11,17
+Lewis Hamilton,Mercedes,2020,16,347.0,11,14
+Lewis Hamilton,Mercedes,2021,22,385.5,8,17
+Lewis Hamilton,Mercedes,2022,22,233.0,0,9
+Lewis Hamilton,Mercedes,2023,22,217.0,0,6
+Lewis Hamilton,Mercedes,2024,24,207.0,2,5
+Liam Lawson,AlphaTauri,2023,5,2.0,0,0
+Liam Lawson,RB F1 Team,2024,6,4.0,0,0
+Logan Sargeant,Williams,2023,22,1.0,0,0
+Logan Sargeant,Williams,2024,14,0.0,0,0
+Marcus Ericsson,Sauber,2015,19,9.0,0,0
+Marcus Ericsson,Sauber,2016,21,0.0,0,0
+Marcus Ericsson,Sauber,2017,20,0.0,0,0
+Marcus Ericsson,Sauber,2018,21,9.0,0,0
+Max Verstappen,Red Bull,2016,17,191.0,1,7
+Max Verstappen,Red Bull,2017,20,168.0,2,4
+Max Verstappen,Red Bull,2018,21,249.0,2,11
+Max Verstappen,Red Bull,2019,21,278.0,3,9
+Max Verstappen,Red Bull,2020,17,214.0,2,11
+Max Verstappen,Red Bull,2021,22,388.5,10,18
+Max Verstappen,Red Bull,2022,22,433.0,15,17
+Max Verstappen,Red Bull,2023,22,530.0,19,21
+Max Verstappen,Red Bull,2024,24,399.0,9,14
+Max Verstappen,Toro Rosso,2015,19,49.0,0,0
+Max Verstappen,Toro Rosso,2016,4,13.0,0,0
+Mick Schumacher,Haas F1 Team,2021,22,0.0,0,0
+Mick Schumacher,Haas F1 Team,2022,22,12.0,0,0
+Nicholas Latifi,Williams,2020,17,0.0,0,0
+Nicholas Latifi,Williams,2021,22,7.0,0,0
+Nicholas Latifi,Williams,2022,22,2.0,0,0
+Nico Hülkenberg,Aston Martin,2022,2,0.0,0,0
+Nico Hülkenberg,Force India,2015,19,58.0,0,0
+Nico Hülkenberg,Force India,2016,21,72.0,0,0
+Nico Hülkenberg,Haas F1 Team,2023,22,6.0,0,0
+Nico Hülkenberg,Haas F1 Team,2024,24,36.0,0,0
+Nico Hülkenberg,Racing Point,2020,3,10.0,0,0
+Nico Hülkenberg,Renault,2017,20,43.0,0,0
+Nico Hülkenberg,Renault,2018,21,69.0,0,0
+Nico Hülkenberg,Renault,2019,21,37.0,0,0
+Nico Rosberg,Mercedes,2015,19,322.0,6,15
+Nico Rosberg,Mercedes,2016,21,385.0,9,16
+Nikita Mazepin,Haas F1 Team,2021,22,0.0,0,0
+Nyck de Vries,AlphaTauri,2023,10,0.0,0,0
+Nyck de Vries,Williams,2022,1,2.0,0,0
+Oliver Bearman,Ferrari,2024,1,6.0,0,0
+Oliver Bearman,Haas F1 Team,2024,2,1.0,0,0
+Oscar Piastri,McLaren,2023,22,82.0,0,2
+Oscar Piastri,McLaren,2024,24,265.0,2,8
+Pascal Wehrlein,Manor Marussia,2016,21,1.0,0,0
+Pascal Wehrlein,Sauber,2017,18,5.0,0,0
+Pastor Maldonado,Lotus F1,2015,19,27.0,0,0
+Paul di Resta,Williams,2017,1,0.0,0,0
+Pierre Gasly,AlphaTauri,2020,17,75.0,1,1
+Pierre Gasly,AlphaTauri,2021,22,110.0,0,1
+Pierre Gasly,AlphaTauri,2022,22,23.0,0,0
+Pierre Gasly,Alpine F1 Team,2023,22,54.0,0,1
+Pierre Gasly,Alpine F1 Team,2024,24,40.0,0,1
+Pierre Gasly,Red Bull,2019,12,63.0,0,0
+Pierre Gasly,Toro Rosso,2017,5,0.0,0,0
+Pierre Gasly,Toro Rosso,2018,21,29.0,0,0
+Pierre Gasly,Toro Rosso,2019,9,32.0,0,1
+Pietro Fittipaldi,Haas F1 Team,2020,2,0.0,0,0
+Rio Haryanto,Manor Marussia,2016,12,0.0,0,0
+Robert Kubica,Alfa Romeo,2021,2,0.0,0,0
+Robert Kubica,Williams,2019,21,1.0,0,0
+Roberto Merhi,Manor Marussia,2015,13,0.0,0,0
+Romain Grosjean,Haas F1 Team,2016,21,29.0,0,0
+Romain Grosjean,Haas F1 Team,2017,20,28.0,0,0
+Romain Grosjean,Haas F1 Team,2018,21,37.0,0,0
+Romain Grosjean,Haas F1 Team,2019,21,8.0,0,0
+Romain Grosjean,Haas F1 Team,2020,15,2.0,0,0
+Romain Grosjean,Lotus F1,2015,19,51.0,0,1
+Sebastian Vettel,Aston Martin,2021,22,43.0,0,1
+Sebastian Vettel,Aston Martin,2022,20,37.0,0,0
+Sebastian Vettel,Ferrari,2015,19,278.0,3,13
+Sebastian Vettel,Ferrari,2016,21,212.0,0,7
+Sebastian Vettel,Ferrari,2017,20,317.0,5,13
+Sebastian Vettel,Ferrari,2018,21,320.0,5,12
+Sebastian Vettel,Ferrari,2019,21,240.0,1,9
+Sebastian Vettel,Ferrari,2020,17,33.0,0,1
+Sergey Sirotkin,Williams,2018,21,1.0,0,0
+Sergio Pérez,Force India,2015,19,78.0,0,1
+Sergio Pérez,Force India,2016,21,101.0,0,2
+Sergio Pérez,Force India,2017,20,100.0,0,0
+Sergio Pérez,Force India,2018,21,62.0,0,1
+Sergio Pérez,Racing Point,2019,21,52.0,0,0
+Sergio Pérez,Racing Point,2020,15,125.0,1,2
+Sergio Pérez,Red Bull,2021,22,190.0,1,5
+Sergio Pérez,Red Bull,2022,22,291.0,2,11
+Sergio Pérez,Red Bull,2023,22,260.0,2,9
+Sergio Pérez,Red Bull,2024,24,138.0,0,4
+Stoffel Vandoorne,McLaren,2016,1,1.0,0,0
+Stoffel Vandoorne,McLaren,2017,20,13.0,0,0
+Stoffel Vandoorne,McLaren,2018,21,12.0,0,0
+Valtteri Bottas,Alfa Romeo,2022,22,47.0,0,0
+Valtteri Bottas,Alfa Romeo,2023,22,10.0,0,0
+Valtteri Bottas,Mercedes,2017,20,305.0,3,13
+Valtteri Bottas,Mercedes,2018,21,247.0,0,8
+Valtteri Bottas,Mercedes,2019,21,326.0,4,15
+Valtteri Bottas,Mercedes,2020,17,223.0,2,11
+Valtteri Bottas,Mercedes,2021,22,219.0,1,11
+Valtteri Bottas,Sauber,2024,24,0.0,0,0
+Valtteri Bottas,Williams,2015,19,136.0,0,2
+Valtteri Bottas,Williams,2016,21,85.0,0,1
+Will Stevens,Manor Marussia,2015,18,0.0,0,0
+Yuki Tsunoda,AlphaTauri,2021,22,32.0,0,0
+Yuki Tsunoda,AlphaTauri,2022,22,12.0,0,0
+Yuki Tsunoda,AlphaTauri,2023,22,14.0,0,0
+Yuki Tsunoda,RB F1 Team,2024,24,29.0,0,0
